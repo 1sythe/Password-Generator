@@ -564,4 +564,3 @@ namespace eval ttk::theme::proxttk-dark {
         #    -background [list hover $colors(-bg)]
     }
 }
-
