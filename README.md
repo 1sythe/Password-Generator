@@ -1,5 +1,5 @@
 # PasswordGenerator
-Generate a random password using a beautiful UI
+Generate a random password using a UI
 
 
 ----------------------------------------
